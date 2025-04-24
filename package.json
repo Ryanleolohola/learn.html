@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanleolohola/learn.html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryanleolohola/learn.html/issues"
+  },
+  "homepage": "https://Ryanleolohola.github.io/learn.html",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
